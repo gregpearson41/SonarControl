@@ -1,1 +1,10 @@
 # SonarControl
+
+Current Key:
+
+Full name? Greg Pearson
+Email Address:gregpearson41@gmail.com
+Expiration Date yyyy/mm/dd:2025/10/01
+Key: xCklKxpabzc6olrXJ6922gwuOUQWXsI0EBnM7DR28kH8UIxF5xhnl47xvm3MGMEUrGopFys12M9Kps85EfK7VWgN3MY3KBnLXWGWDj7ZEEkst6GKqsK8ANz0Erj7ghrRvOHx0Y8758IoTRK5T9apL_eP3NHGcCdRB0YXIin6H2vYWM1eQjDkk9pmewek9HIhg0UGGOqkfL9WfAtTyoSiVQ5UWuwj78Dyq-6gZitHRIU
+
+
